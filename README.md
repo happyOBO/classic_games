@@ -14,7 +14,7 @@
 - **바닥에 도형이 쌓이는 구현 미흡하다.**
 ### Game Play
 
-![Tetris](./play_mov/tetris.gif)
+![Tetris](./play_mov/tetris.gif){: width="50%" height="50%"}
 
 
 
