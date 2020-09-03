@@ -20,7 +20,7 @@
 - ``Space bar``를 누르면 도형이 회전 가능하다.
 - ``OpenGL`` , ``C++`` 사용
 - **바닥에 도형이 쌓이는 구현 미흡하다.**
-### Game Play
+### 시연 영상
 
 <img src="./play_mov/tetris.gif" width="300">
 
