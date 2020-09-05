@@ -1,11 +1,8 @@
 ## Classic games
 
 ### Kind of games
-```
-└─classic_games
-    └─Tetris
-    └─Galaga
-```
+- [Tetris](https://github.com/happyOBO/classic_games#tetris)
+- [Galaga](https://github.com/happyOBO/classic_games#galaga)
 ### Tetris
 
 ---
