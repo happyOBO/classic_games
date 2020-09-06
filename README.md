@@ -3,7 +3,7 @@
 ### Kind of games
 - [Tetris](https://github.com/happyOBO/classic_games#tetris)
 - [Galaga](https://github.com/happyOBO/classic_games#galaga)
-- [Jump&Hit](https://github.com/happyOBO/classic_games#jump&hit)
+- [Jump&Hit](https://github.com/happyOBO/classic_games#jump--hit)
 ### Tetris
 
 ---
