@@ -4,6 +4,7 @@
 - [Tetris](https://github.com/happyOBO/classic_games#tetris)
 - [Galaga](https://github.com/happyOBO/classic_games#galaga)
 - [Jump&Hit](https://github.com/happyOBO/classic_games#jump--hit)
+- [Draw lines](https://github.com/happyOBO/classic_games#draw_lines)
 ### Tetris
 
 ---
@@ -46,5 +47,18 @@
 
 ### 시연 영상
 <img src="./play_mov/jump_and_hit.gif" width="500">
+
+
+
+
+### Draw_lines
+
+---
+### Contents
+- 선 그리기
+- 오른쪽 상단의 세가지 색(빨강, 초록, 파랑)중 하나를 클릭하여 해당 색의 곡선을 그릴 수 있다.
+
+### 시연 영상
+<img src="./play_mov/draw_lines.gif" width="400">
 
 
