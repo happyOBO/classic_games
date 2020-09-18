@@ -5,6 +5,8 @@
 - [Galaga](https://github.com/happyOBO/classic_games#galaga)
 - [Jump&Hit](https://github.com/happyOBO/classic_games#jump--hit)
 - [Draw lines](https://github.com/happyOBO/classic_games#draw_lines)
+- [Stone Roll](https://github.com/happyOBO/classic_games#stone_roll)
+
 ### Tetris
 
 ---
@@ -61,4 +63,18 @@
 ### 시연 영상
 <img src="./play_mov/draw_lines.gif" width="400">
 
+
+
+
+### Stone_Roll
+
+---
+### Contents
+- 캐릭터는 ``A``,``D``,``W``,``S``키를 이용해 움직일수 있다.
+- 돌(NPC) 근처에서 ``SPACEBAR``를 누를경우 돌(NPC)는 반대 방향으로 한칸 움직인다.
+- ``NPC`` 클래스를 생성해 변수를 여러개 만들지 않고, 여러 돌들을 만들수 있다. 
+- ``OpenGL`` , ``C++`` 사용
+
+### 시연 영상
+<img src="./play_mov/stone_roll.gif" width="400">
 
