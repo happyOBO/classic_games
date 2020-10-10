@@ -78,3 +78,18 @@
 ### 시연 영상
 <img src="./play_mov/stone_roll.gif" width="400">
 
+### Crazy Arcade
+
+---
+
+### Contents
+
+- ``OpenGL``을 이용해 넥슨 사의 크레이지 아케이드 게임 만들기
+- 캐릭터는 ``A``,``D``,``W``,``S``키를 이용해 움직일수 있다.
+- ``SPACEBAR``를 누를 경우 최대 3개 물풍선을 놓을수 있고, 약 3초뒤에 주변에 물줄기를 나타내며 터진다.
+- ``OpenGL`` , ``C++`` 사용
+
+
+### 시연 영상
+
+<img src="./play_mov/crazyarcade.gif" width="400">

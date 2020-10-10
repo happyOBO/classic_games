@@ -16,10 +16,7 @@
 #include "npc.h"
 using namespace std;
 
-
-
 User usr(0.0,0.0);
-
 
 NPC np1(5.0, 5.0,1); // call class npc
 
@@ -44,7 +41,7 @@ void Idlefunc()
     glClear(GL_COLOR_BUFFER_BIT);
     usr.DrawChar();
     np1.draw_NPC();
-    usr.Draw_My_balloon();
+//    usr.Draw_My_balloon();
     glFlush();
 
     glutPostRedisplay();
@@ -73,7 +70,7 @@ void MyKeyboard(unsigned char key, int p, int k) {
          usr.move_user(0,-1);
      break;
  case 32 :
-     usr.add_balloon_counts();
+     usr.add_balloon_counts(x_location,y_location);
      np1.touch_NPC(usr);
 //    np2.touch_NPC();
 //    np3.touch_NPC();
